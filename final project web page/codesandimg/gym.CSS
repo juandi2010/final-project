@@ -1,10 +1,18 @@
 
-
 body{ background-color: #354649;
 
 }
 
+h3{font-size: 30px;
+		font-family: "Poppins", sans-serif;
+	width: 200px;
+	color: #00CED1;
+  padding: 20px;
+  margin-left: 12px;
+ 
 
+
+}
 
 
 .team{ font-size: 60px;
@@ -21,7 +29,11 @@ body{ background-color: #354649;
 .infoabout{font-family: "Poppins",sans-serif;
 	font-size: 45px;
 	color: #FFFFFF;
-	margin-bottom: 300px;
+	border-top: 1px black;
+	 border-left: 1px black;
+  border-style: solid;
+  border-width: 5px;
+  padding: 10px;
 
 }
 
@@ -116,18 +128,32 @@ body{ background-color: #354649;
 	.types{font-size:55px ;
 	font-family:"Poppins", sans-serif ;
 	color:#3187A2 ;
-	margin-left: 200px;
+	margin-left: 160px;
 	padding: 30px;
 
 
 	}
 
-	.procon{position: absolute;
-
-		font-size:35px ;
+	.traininfo{position: absolute;
+margin-left: 38px;
+		font-size:27px ;
 	font-family:"Poppins", sans-serif ;
 	color:lawngreen ;
 	padding-bottom: 330px;
+	}
+
+	.recog{font-size: 35px;
+	font-family: "Poppins",sans-serif;
+	color: #FFFFFF;
+	margin-left: 34px;
+
+	}
+	.raise{font-size: 15px;
+		font-family: "Poppins",sans-serif;
+		color: #FFFFFF;
+padding-top: 150px;
+
+
 
 
 	}
