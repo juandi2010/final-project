@@ -1,0 +1,140 @@
+
+
+body{ background-color: #354649;
+
+}
+
+
+
+
+.team{ font-size: 60px;
+	font-family: "Poppins",sans-serif;
+	color: #FFFFFF;
+	margin-left: 180px;
+
+}
+.more{ font-size: 55px;
+	font-family: "Poppins",sans-serif;
+	color: #FFFFFF;
+	margin-left: 450px;}
+
+.infoabout{font-family: "Poppins",sans-serif;
+	font-size: 45px;
+	color: #FFFFFF;
+	
+
+}
+
+
+.about{
+	font-size: 49px;
+	font-family: "Poppins", sans-serif;
+	width: 200px;
+	color: #00CED1;
+	padding: 20px;
+	margin-left: 30px;
+ 
+}
+
+	.program {font-size: 30px;
+		font-family: "Poppins", sans-serif;
+	width: 200px;
+	color: #00CED1;
+  padding: 20px;
+  margin-left: 12px;
+ 
+}
+
+.member{ font-size: 40px;
+	font-family: "Poppins", sans-serif;
+	color: #00CED1;
+	width: 200px;
+	margin-left: 5px;
+	padding: 20px;
+
+}
+
+.Aprof{font-size:35px ;
+	font-family: "Poppins", sans-serif;
+	color:white ;
+	 border-bottom: 1px #00CED1;
+	 border-right: 1px #00CED1;
+  border-style: solid;
+  border-width: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.Bprof{font-size:32px ;
+	font-family: "Poppins", sans-serif;
+	color:white ;
+	 border-bottom: 1px #00CED1;
+	 border-right: 1px #00CED1;
+  border-style: solid;
+  border-width: 5px;
+  padding: 20px;
+}
+.Cprof{font-size:36px ;
+	font-family: "Poppins", sans-serif;
+	color:white ;
+	 border-bottom: 1px #00CED1;
+	 border-right: 1px #00CED1;
+  border-style: solid;
+  border-width: 5px;
+  padding: 17px;
+  margin-bottom: 20px;
+}
+.Dprof{font-size:40px ;
+	font-family: "Poppins", sans-serif;
+	color:white ;
+	 border-bottom: 1px #00CED1;
+	 border-right: 1px #00CED1;
+  border-style: solid;
+  border-width: 5px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.extrainfo{color: white;
+	font-size: 20px;
+
+}
+
+.typestrain{font-size:55px ;
+	font-family:"Poppins", sans-serif ;
+	color:#FFFFFF ;
+	margin-left: 300px;
+	padding: 30px;
+}
+
+.structure{font-size:55px ;
+	font-family:"Poppins", sans-serif ;
+	color:#FFFFFF ;
+	margin-left: 300px;
+	padding: 30px;
+}
+
+	.types{font-size:55px ;
+	font-family:"Poppins", sans-serif ;
+	color:#3187A2 ;
+	margin-left: 180px;
+	padding: 30px;
+
+
+	}
+
+	.procon{position: absolute;
+
+		font-size:35px ;
+	font-family:"Poppins", sans-serif ;
+	color:lawngreen ;
+	padding-bottom: 330px;
+	}
+
+	.recog{font-size: 35px;
+	font-family: "Poppins",sans-serif;
+	color: #FFFFFF;
+	margin-left: 34px;
+
+
+
+	}
